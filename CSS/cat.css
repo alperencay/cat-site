@@ -1,0 +1,69 @@
+html,
+body {
+    width: 100%;
+}
+
+body {
+    background-color: #dddddd;
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sahıplen {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sahıplen>h1 {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 3em;
+    color: #333333;
+}
+
+h1:hover {
+    background-color: teal;
+}
+
+.cat-ruler {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cat-ruler>h2 {
+    color: teal;
+}
+
+.collective-group {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.cat-video {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90em;
+}
+
+.cat-image {
+    display: flex;
+    flex-wrap: wrap;
+    width: 13em;
+    height: 25em;
+}
+
+.cat-patience {
+    display: flex;
+    flex-wrap: wrap;
+    width: 11em;
+    height: 42em;
+}
